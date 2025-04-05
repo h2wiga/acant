@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "https://h2wiga.github.io/carnaji/"
+echo "https://tipy.link/carnaji-kermanshah-440977"
